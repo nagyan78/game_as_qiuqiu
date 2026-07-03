@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+E:\程序开发设计大作业2024.7\65-20232241014-张信菲\esayx_try\esayx_try\FileName.cpp(91,19): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\程序开发设计大作业2024.7\65-20232241014-张信菲\esayx_try\esayx_try\FileName.cpp(92,20): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\程序开发设计大作业2024.7\65-20232241014-张信菲\esayx_try\esayx_try\FileName.cpp(111,19): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  esayx_try.vcxproj -> E:\程序开发设计大作业2024.7\65-20232241014-张信菲\esayx_try\x64\Debug\esayx_try.exe
